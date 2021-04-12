@@ -1,0 +1,15 @@
+.main-Container{
+  background-color: #fff;
+  border-radius: 3rem;
+}
+.main-heading{
+
+  text-decoration: underline;
+}
+.saving{
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.labels{
+  font-size: 2rem;
+}
